@@ -1,0 +1,14 @@
+#VRML V2.0 utf8
+#Programa Sphere.wrl
+#Uma esfera amarela
+
+Shape 
+{ appearance Appearance 
+	{ material Material
+		{ diffuseColor 1 1 0
+		}
+	}
+	geometry Sphere { radius 1.89
+			}
+
+}
